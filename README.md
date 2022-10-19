@@ -1,3 +1,3 @@
 # masai112
 
-this poject is for practicing the basic functionality
+this project is for practicing the basic functionality
